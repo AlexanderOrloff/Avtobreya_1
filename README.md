@@ -10,7 +10,7 @@ _________________
 
 Отчёт: https://docs.google.com/document/d/1DSSR9DSouVcLK043mB15zYl0zzyOQHjRFYdp1XT_STM/edit#
 
-Необходимые для (сравнительно) быстрого запуска тетрадки project.ipynb (в колабе): https://drive.google.com/file/d/18zgFAFYQpe8fsQRYMii9k-dIbdJcP2_b/view?usp=sharing
+Файлы, необходимые для (сравнительно) быстрого запуска тетрадки project.ipynb (в колабе): https://drive.google.com/file/d/18zgFAFYQpe8fsQRYMii9k-dIbdJcP2_b/view?usp=sharing
 
 models.rar и папку attention нужно разместить в папку /content/, а не в /drive/My Drive/.
 
